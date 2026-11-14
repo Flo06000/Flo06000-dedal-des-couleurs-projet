@@ -46,17 +46,3 @@
   gap: 1rem;
   margin-top: 1.5rem;
 }
-
-/* Styles supplémentaires chronologie et citations du fondateur */
-.founder-quote-block {
-  border-left: 3px solid #162238;
-  padding-left: 1.25rem;
-  margin: 2rem 0;
-  font-style: italic;
-  color: #333333;
-}
-.founder-timeline-list {
-  display: grid;
-  gap: 1rem;
-  margin-top: 1.5rem;
-}

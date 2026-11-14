@@ -606,24 +606,3 @@ h1, h2, h3, p, dt, dd, li, .label, mark, .logo, .field label, .legal, .lead { tr
     margin-top: 1rem;
   }
 }
-
-/* Styles supplémentaires de prévisualisation et zoom */
-.photo-zoom-hint {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4rem;
-  font-size: 0.8rem;
-  color: #555555;
-  margin-top: 0.5rem;
-}
-.photo-meta-box {
-  border-top: 1px solid #e2e2e2;
-  padding-top: 1rem;
-  margin-top: 1.5rem;
-}
-@media (max-width: 768px) {
-  .photo-meta-box {
-    padding-top: 0.75rem;
-    margin-top: 1rem;
-  }
-}
